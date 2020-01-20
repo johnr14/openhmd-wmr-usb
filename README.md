@@ -247,6 +247,7 @@ First packet of 4 captures excluding known camera packets.
 
 <details>
 <summary>Packet 1</summary>
+
 ```
 Frame 1684: 45 bytes on wire (360 bits), 45 bytes captured (360 bits)
     Encapsulation type: USB packets with USBPcap header (152)
