@@ -235,7 +235,7 @@ They share some similarity as they all start with same 10 bytes. Only the 9th by
 
 In my captures, I got a few unique packet that are a mystery. 
 
-First packet of 4 captures
+First packet of 4 captures excluding known camera packets.
 ```
 44 6c 6f 2b 12 00 00 00 80 00 00 00 70 17 7e 00 00 00
 44 6c 6f 2b 12 00 00 00 80 00 00 00 70 17 10 00 00 00
