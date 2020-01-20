@@ -94,6 +94,7 @@ USB URB
 Leftover Capture Data: 10004606
 
 ```
+</details>
 
 ```
 0000   1b 00 50 60 84 53 0a e6 ff ff 00 00 00 00 09 00   ..P`.S..........
