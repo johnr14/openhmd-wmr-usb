@@ -236,11 +236,12 @@ They share some similarity as they all start with same 10 bytes. Only the 9th by
 In my captures, I got a few unique packet that are a mystery. 
 
 First packet of 4 captures
+```
 44 6c 6f 2b 12 00 00 00 80 00 00 00 70 17 7e 00 00 00
 44 6c 6f 2b 12 00 00 00 80 00 00 00 70 17 10 00 00 00
 44 6c 6f 2b 12 00 00 00 80 00 00 00 70 17 86 00 00 00
 44 6c 6f 2b 12 00 00 00 80 00 00 00 b0 13 57 00 00 00
-
+```
 
 
 
@@ -374,7 +375,7 @@ Leftover Capture Data: 446c6f2b1200000080000100c61651000100
 ```
 
 
-Junk packets for control keep alive or controls ?
+Junk packets for keep alive or controls ?
 
 
 ```
