@@ -280,6 +280,7 @@ USB URB
     [bInterfaceClass: Vendor Specific (0xff)]
 Leftover Capture Data: 446c6f2b1200000080000000b01357000000
 ```
+
 </details>
 
 ```
