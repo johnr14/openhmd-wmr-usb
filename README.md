@@ -5,8 +5,12 @@ Trying to get Samsung Odyssey + to work on linux with openhmd
 ## WIP LOG:
 
 #### History
-I can't get my Samsung Odyssey + running in linux with openhmd. The screen stays off but the device sends back IMU data. There seems to be some delay with WMR and when openhmd tries to access device configuration, it will not respond. There has to be more retries and longer wait time for it to work. I also found that sometime starting the exemples programmes a few times in a row will make it work. This has to be fixed as it's a big issue for openhmd-wmr.
+I can't get my **Samsung Odyssey +** running in linux with openhmd. The screen stays off but the device sends back IMU data. 
 
+Issues : 
+- Screen stays off
+- There seems to be some delay with WMR and when openhmd tries to access device configuration, it will not respond. There has to be more retries and longer wait time for it to work. I also found that sometime starting the exemples programmes a few times in a row will make it work. This has to be fixed as it's a big issue for openhmd-wmr.
+- Missing screen on usb cmd
 I think that a bulk usb transfer cmd must be sent to enable the HDMI display. So I went and captured USB data in Windows and try to look for suspicius things.
 
 ### Status
